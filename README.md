@@ -31,11 +31,18 @@ GenAI-SimilarWordFinder is a Streamlit-powered web application designed to showc
 - Choose a professional profile and an enterprise domain.
 - Enter your query and click "Generate Insights".
 
-## Contributing
-Feel free to fork this project and adapt it to your needs. Contributions for improving the application are welcome.
+## Contributions
+Contributions to this project are welcome! Whether it's feature requests, bug reports, or code contributions, your input is valuable.
 
-## Acknowledgements
-Created by Avinash Polineni, leveraging cutting-edge Generative AI technologies to drive enterprise innovation.
+## About the Developer
+Avinash Polineni, a cloud engineer with a passion for science, technology, and AI, created this platform. With a deep interest in domains like astrophysics, quantum mechanics, and sustainability, Avinash brings a unique perspective to AI applications in enterprise solutions.
+
+## Contact
+- [GitHub](https://github.com/polineniavinash)
+- [LinkedIn](https://linkedin.com/in/avinash-polineni/)
+- [Hugging Face](https://huggingface.co/AvinashPolineni)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+© 2023 Avinash Polineni. All Rights Reserved.
