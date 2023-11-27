@@ -21,6 +21,11 @@ GenAI-SimilarWordFinder is a Streamlit-powered web application designed to showc
 - Customizable word limit for responses.
 - Section for additional resources and contact information.
 
+![Screenshot 2023-11-27 at 1 36 31 AM](https://github.com/polineniavinash/GenAI-SimilarWordFinder/assets/32843645/b0599c95-d6a2-485c-bac4-854167b35d20)
+
+![Screenshot 2023-11-27 at 1 36 57 AM](https://github.com/polineniavinash/GenAI-SimilarWordFinder/assets/32843645/b2822c1e-b640-4786-8a9c-8314df6efd40)
+
+
 ## Setup
 1. Clone the repository.
 2. Install required packages: `pip install -r requirements.txt`.
