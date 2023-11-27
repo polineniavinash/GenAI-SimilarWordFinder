@@ -47,7 +47,5 @@ Avinash Polineni, a cloud engineer with a passion for science, technology, and A
 - [LinkedIn](https://linkedin.com/in/avinash-polineni/)
 - [Hugging Face](https://huggingface.co/AvinashPolineni)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 © 2023 Avinash Polineni. All Rights Reserved.
