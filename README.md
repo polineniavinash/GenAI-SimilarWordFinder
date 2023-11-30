@@ -48,4 +48,4 @@ Avinash Polineni, a cloud engineer with a passion for science, technology, and A
 - [Hugging Face](https://huggingface.co/AvinashPolineni)
 
 
-© 2023 Avinash Polineni. All Rights Reserved.
+© 2023 Avinash Polineni.
