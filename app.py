@@ -65,6 +65,6 @@ st.sidebar.markdown("[Checkout Avinash's Hugging Face Profile](https://huggingfa
 st.sidebar.markdown("[Checkout Avinash's GitHub Profile](https://github.com/polineniavinash)")
 st.sidebar.markdown("[Contact Me on LinkedIn](https://linkedin.com/in/avinash-polineni/)")
 st.markdown("---")
-st.caption("© 2023 Avinash Polineni. All Rights Reserved.")
+st.caption("© 2023 Avinash Polineni.")
 
 # Reminder: Update 'enterpriseData.csv' with more relevant entries specific to blockchain and supply chain optimization.
