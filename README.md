@@ -13,7 +13,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 # GenAI-SimilarWordFinder
 
 ## Overview
-GenAI-SimilarWordFinder is a Streamlit-powered web application designed to showcase the capabilities of generative AI in providing insights and solutions for various enterprise-related queries, with a focus on fields like Supply Chain Optimization, Customer Service Enhancement, Market Analysis, and Financial Forecasting.
+GenAI-SimilarWordFinder is a Streamlit-powered web application designed to showcase the capabilities of generative AI in providing insights and solutions for various enterprise-related queries.
 
 ## Features
 - Interactive UI to input queries and select enterprise domains.
@@ -40,7 +40,7 @@ GenAI-SimilarWordFinder is a Streamlit-powered web application designed to showc
 Contributions to this project are welcome! Whether it's feature requests, bug reports, or code contributions, your input is valuable.
 
 ## About the Developer
-Avinash Polineni, a cloud engineer with a passion for science, technology, and AI, created this platform. With a deep interest in domains like astrophysics, quantum mechanics, and sustainability, Avinash brings a unique perspective to AI applications in enterprise solutions.
+Avinash Polineni, a cloud engineer with a passion for science, technology, and AI, developed this platform. Possessing a keen interest in areas such as Generative AI, Cloud Computing, and Security, Avinash infuses a distinctive viewpoint into the utilization of AI in enterprise solutions.
 
 ## Contact
 - [GitHub](https://github.com/polineniavinash)
